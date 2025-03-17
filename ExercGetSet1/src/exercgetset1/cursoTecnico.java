@@ -27,7 +27,7 @@ public class cursoTecnico extends Curso{
     
     @Override
     public void calcularMensalidade() {
-    mensalidade = 50 * getCargaHoraria();
+    mensalidade = 300 (10 * getCargaHoraria());
         
     }
 }
